@@ -26,7 +26,7 @@ DataScienceShowcase/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/DataScienceShowcase.git
+   git clone https://github.com/Filip3Owl/DataScienceShowcase.git
    ```
 2. Install dependencies:
    ```bash
